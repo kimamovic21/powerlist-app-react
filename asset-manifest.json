@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/kimamovic21/powerlist-app-react/static/css/main.72aa91ce.css",
+    "main.js": "/kimamovic21/powerlist-app-react/static/js/main.c8e9aa28.js",
+    "index.html": "/kimamovic21/powerlist-app-react/index.html",
+    "main.72aa91ce.css.map": "/kimamovic21/powerlist-app-react/static/css/main.72aa91ce.css.map",
+    "main.c8e9aa28.js.map": "/kimamovic21/powerlist-app-react/static/js/main.c8e9aa28.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.72aa91ce.css",
+    "static/js/main.c8e9aa28.js"
+  ]
+}
